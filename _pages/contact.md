@@ -4,11 +4,12 @@ title: Contact
 permalink: /contact/
 ---
 
-### Mostafa Bousbaa  
-**CRSA – Center for Remote Sensing Applications**  
+📍 **Address:**  
+CRSA – Center for Remote Sensing Applications  
 College of Agriculture and Environmental Sciences  
-Mohammed VI Polytechnic University – Benguerir, Morocco  
+Mohammed VI Polytechnic University  
+Ben Guerir 43150, Morocco
 
-📞 +212 690086845  
-📧 Mostafa.BOUSBAA@um6p.ma  
-📧 bousbaa.mostafa9@gmail.com
+📞 **Phone:** +212 690086845  
+📧 **Email 1:** Mostafa.BOUSBAA@um6p.ma  
+📧 **Email 2:** bousbaa.mostafa9@gmail.com
