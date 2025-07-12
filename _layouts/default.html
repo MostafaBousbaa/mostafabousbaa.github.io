@@ -12,7 +12,11 @@
         <h1 class="post-headline">{{site.title}}</h1>
         <h3 class="post-description">{{site.description}}</h3>
 
-        {% include navigation.html %}
+        <nav class="menu">
+            {% for link in site.data.navigation %}
+            <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+            {% endfor %}
+        </nav>
 
         {% seo %}
 
