@@ -14,7 +14,7 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 # linkedin: "https://www.linkedin.com/in/mostafa-bousbaa/"
-stackoverflow: "#"
+# stackoverflow: "#"
 # github: "#"
 # researchgate: "https://www.researchgate.net/profile/Mostafa-Bousbaa-2"
 # orcid: "https://orcid.org/my-orcid?orcid=0000-0002-4898-4921"
