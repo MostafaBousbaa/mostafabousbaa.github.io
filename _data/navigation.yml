@@ -1,11 +1,11 @@
-- title: About
+- title: Home
   url: /
 
-- title: Research
-  url: /projects/
+- title: Curriculum Vitae
+  url: /cv.pdf
 
 - title: Publications
-  url: /archive/
+  url: https://scholar.google.com/citations?user=SlHq9D2PE8MC&hl=fr
 
 - title: Contact
   url: /contact/
