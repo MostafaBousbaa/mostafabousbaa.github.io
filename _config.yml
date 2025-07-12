@@ -5,7 +5,7 @@ description: Ph.D. Candidate in Remote Sensing, Hydrology & Geoinformatics
 
 baseurl: ""  # ← VERY IMPORTANT: leave empty for personal site
 url: "https://mostafabousbaa.github.io"  # your GitHub Pages URL
-email: your@email.com  # optional
+email: # optional
 
 # Pagination
 paginate: 4
