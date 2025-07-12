@@ -7,15 +7,14 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+I’m **Mostafa Bousbaa**, a *Ph.D. researcher* at the [Center for Remote Sensing Applications (CRSA)](https://crsa.um6p.ma/home), part of the **College of Agriculture and Environmental Sciences** at [Mohammed VI Polytechnic University (UM6P)](http://um6p.ma/fr) in Ben Guerir, Morocco.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+My research focuses on **multi-sensor image fusion** for *snow hydrology applications* in the Moroccan context. I aim to enhance water resource management by integrating **multi-source satellite data**, **hydrological modeling techniques**, and **artificial intelligence** approaches such as machine learning and deep learning. This work spans from experimental field studies to large-scale basin-level analysis.
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+My thesis is supervised by [Prof. Abdelghani Boudhar](https://scholar.google.com/citations?user=3P8GYSYAAAAJ&hl=fr), as part of the *MorSnow Project* — *Monitoring and Quantifying Snowmelt Contribution for Moroccan Water Management Strategies in the Context of Climate Change*.
 
-PS: If you liked the theme, do star it on GitHub!
+In addition, I coordinate the **DigitalHub Network Community**, a platform dedicated to building digital skills and empowering youth and professionals across Morocco and Africa.
 
-### Also, check out:
-
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+For more details, feel free to check my academic and professional profiles:  
+🔗 [Google Scholar](https://scholar.google.com/citations?user=SlHq9D2PE8MC&hl=fr)  
+🔗 [GitHub](#) | [LinkedIn](#) | [ResearchGate](#)
