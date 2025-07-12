@@ -15,6 +15,4 @@ My thesis is supervised by [Prof. Abdelghani Boudhar](https://scholar.google.com
 
 In addition, I coordinate the **DigitalHub Network Community**, a platform dedicated to building digital skills and empowering youth and professionals across Morocco and Africa.
 
-For more details, feel free to check my academic and professional profiles:  
-🔗 [Google Scholar](https://scholar.google.com/citations?user=SlHq9D2PE8MC&hl=fr)  
-🔗 [GitHub](#) | [LinkedIn](#) | [ResearchGate](#)
+For more details, feel free to check my academic and professional profiles.
