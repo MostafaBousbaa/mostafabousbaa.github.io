@@ -91,12 +91,10 @@ target="_blank">
 
 {%- if site.scholar -%}
 <a title="Google Scholar"
-   class="social-button"
+   class="social-button scholar" itemprop="sameAs"
    href="{{ site.scholar }}"
-   itemprop="sameAs"
-   target="_blank"
-   style="background-color:#3366CC; display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; border-radius: 50%;">
-  <i class="ai ai-google-scholar" style="color: white; font-size: 20px;"></i>
+   target="_blank">
+  <i class="fas fa-graduation-cap"></i> <!-- Font Awesome academic icon -->
 </a>
 {%- endif -%}
 
