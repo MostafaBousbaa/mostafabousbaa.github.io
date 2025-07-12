@@ -1,20 +1,16 @@
 ---
 layout: default
 permalink: /archive/
-title: Archive
+title: Publications
 ---
 
-<div class="article-list">
-	{% for post in site.posts %}
-	{% unless post.next %}
-	<h3><small>{{ post.date | date: '%B %Y' }}</small></h3>
-	{% else %}
-	{% capture year %}{{ post.date | date: '%Y %b' }}{% endcapture %}
-	{% capture nyear %}{{ post.next.date | date: '%Y %b' }}{% endcapture %}
-	{% if year != nyear %}
-	<h3><small>{{ post.date | date: '%B %Y' }}</small></h3>
-	{% endif %}
-	{% endunless %}
-    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br>
-	{% endfor %}
-</div>
+<h2>My Research Publications</h2>
+
+<p>You can find a full list of my peer-reviewed articles, conference papers, and collaborative projects on my ResearchGate profile.</p>
+
+<p>
+  👉 <a href="https://www.researchgate.net/profile/Mostafa-Bousbaa-2" target="_blank">
+    Visit my ResearchGate Profile
+  </a>
+</p>
+
