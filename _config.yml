@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Mostafa Bousbaa
+description: Ph.D. Candidate in Remote Sensing, Hydrology & Geoinformatics
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+baseurl: ""  # ← VERY IMPORTANT: leave empty for personal site
+url: "https://mostafabousbaa.github.io"  # your GitHub Pages URL
+email: your@email.com  # optional
 
 # Pagination
 paginate: 4
